@@ -11090,7 +11090,7 @@ def multi_endswith_hot_trie(query_string: str):
     )
 
 
-NUM_TIMES = 10_000
+NUM_TIMES = 1_000
 
 if __name__ == "__main__":
 
